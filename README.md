@@ -1,3 +1,3 @@
 # Simple Contact form with grid css.
 
-![](css-grid-form.png)
+![](contact-form.png)
